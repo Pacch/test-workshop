@@ -1,12 +1,12 @@
 Ceviche "La Cafeta"
 
 Ingregientes:
-- Pescado
-- Limón
-- ají
-- chifles
-- camote
-- yuca
+- Pescado - 1
+- Limón - 5
+- ají - 1
+- chifles - 2
+- camote - 2
+- yuca - 2
 
 Preparación:
 - Exprimir los limones.
@@ -18,6 +18,3 @@ Preparación:
 - Coloca los camotes en el recipiente.
 - Sancocha las yucas.
 - Coloca las yucas en el recipiente.
-
-
-# Cambio para eliminar el commit.
