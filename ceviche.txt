@@ -4,20 +4,15 @@ Ingregientes:
 - Pescado
 - Limón
 - ají
-<<<<<<< HEAD
 - chifles
-=======
 - camote
->>>>>>> c4927cc780f36e16894964924fe46c185d7a5242
+- yuca
 
 Preparación:
 - Exprimir los limones.
 - Cortar el pescado en cubos.
 - Cortar el ají (dejar la pepa si desea que sea muy picante).
 - Mezclar los ingredientes en un recipiente.
-<<<<<<< HEAD
 - Agregale los chifles al finalizar la mezcla.
-=======
 - Sancocha los camotes.
 - Coloca los camotes en el recipiente.
->>>>>>> c4927cc780f36e16894964924fe46c185d7a5242
